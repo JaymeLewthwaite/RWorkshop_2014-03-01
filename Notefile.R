@@ -36,4 +36,6 @@ blah blah[write something][link]
 #git log <- allows you to see the commit history. Within log file, there are a series of numbers/letters assigned to each commit. To check them out:
 #git checkout <ID> <- brings you into "parallel universe"; creates a split in the file.
 #git cheackout master <- brings you back where you were
+
+
   
