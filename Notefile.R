@@ -35,7 +35,10 @@ blah blah[write something][link]
 #git add* <- star means add everything
 #git log <- allows you to see the commit history. Within log file, there are a series of numbers/letters assigned to each commit. To check them out:
 #git checkout <ID> <- brings you into "parallel universe"; creates a split in the file.
-#git cheackout master <- brings you back where you were
+#git checkout master <- brings you back where you were
+
+#to bring in project to R Studio from Git Hub, go to File_.New Project->Version Control and enter the url for the project
+
 
 
   
